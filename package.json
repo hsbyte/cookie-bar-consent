@@ -1,0 +1,31 @@
+{
+  "name": "cookie-bar-consent",
+  "version": "1.0.0",
+  "description": "Cookie Consent Bar",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsbyte/cookie-bar-consent.git"
+  },
+  "keywords": [
+    "cookie",
+    "consent",
+    "cookie",
+    "bar\u001b[D\u001b[D\u001b[Dconsent",
+    "bar",
+    "cookie",
+    "law"
+  ],
+  "author": "Arnold Haban",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hsbyte/cookie-bar-consent/issues"
+  },
+  "homepage": "https://github.com/hsbyte/cookie-bar-consent#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
