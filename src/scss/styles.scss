@@ -1,0 +1,33 @@
+:root {
+	--carrot-orange: #F49724;
+	--peach-yellow: #FADEA8;
+}
+.cookiebar {
+	z-index: 99;
+	z-index: 99;
+	background-color: var(--peach-yellow);
+	display: none;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+
+	&__list {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		list-style: none; }
+
+		&--learn {
+	    text-decoration: none;
+	    color: var(--carrot-orange); }
+
+		&__exit {
+			color: white;
+			margin: 0 20px;
+			border: 2px solid white;
+			border-radius: 15px;
+			padding: 5px 20px;
+			background-color: var(--carrot-orange);
+			cursor: pointer; }
+}

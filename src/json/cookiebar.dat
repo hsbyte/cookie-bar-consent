@@ -1,0 +1,44 @@
+[
+	{ "name": "english",
+    "lang": ["en", "en-US", "en-GB", "en-AU", "en-GB", "en-CA", "en-NZ", "en-IE", "en-ZA", "en-JM", "en-BZ", "en-TT"],
+    "consent": "We use cookies to improve your experience. By continuing to visit this site, you consent to our use of cookies.",
+    "learn": "Learn more.",
+    "url": "/privacy-policy.html"
+	},
+	{ "name": "dutch",
+    "lang": ["nl", "nl-BE"],
+    "consent": "Wij gebruiken cookies om uw ervaring te verbeteren. Door verder te gaan naar deze site, stemt u in met ons gebruik van cookies.",
+    "learn": "Learn more.",
+    "url": "/privacy-policy-nl.html"
+	},
+	{ "name": "french",
+    "lang": ["fr", "fr-BE", "fr-CA", "fr-CH", "fr-LU"],
+    "consent": "Nous utilisons des cookies pour améliorer votre expérience. En continuant à visiter ce site, vous consentez à notre utilisation de cookies.",
+    "learn": "Learn more.",
+    "url": "/privacy-policy-fr.html"
+	},
+	{ "name": "german",
+    "lang": ["de", "de-CH", "de-AT", "de-LU", "de-LI"],
+    "consent": "Wir verwenden Cookies, um Ihre Erfahrung zu verbessern. Wenn Sie diese Seite weiterhin besuchen, stimmen Sie der Verwendung von Cookies zu.",
+    "learn": "Learn more.",
+    "url": "/privacy-policy-de.html"
+	},
+	{ "name": "italian",
+    "lang": ["it", "it-CH"],
+    "consent": "Utilizziamo i cookie per migliorare la tua esperienza. Continuando a visitare questo sito, l'utente acconsente all'utilizzo dei cookie.",
+    "learn": "Learn more.",
+    "url": "/privacy-policy-it.html"
+	},
+	{ "name": "swedish",
+    "lang": ["sv", "sv-FI"],
+    "consent": "Vi använder cookies för att förbättra din upplevelse. Genom att fortsätta besöka denna webbplats godkänner du vår användning av cookies.",
+    "learn": "Learn more.",
+    "url": "/privacy-policy-sv.html"
+	},
+	{ "name": "spanish",
+    "lang": ["es", "es-AR", "es-GT", "es-GT", "es-CR", "es-PA", "es-DO", "es-MX", "es-VE", "es-CO", "es-PE", "es-EC", "es-CL", "es-UY", "es-PY", "es-BO", "es-SV", "es-HN", "es-NI", "es-PR"],
+    "consent": "Usamos cookies para mejorar tu experiencia. Al continuar visitando este sitio, usted acepta nuestro uso de cookies.",
+    "learn": "Learn more.",
+    "url": "/privacy-policy-es.html"
+	}
+]

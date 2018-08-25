@@ -40,3 +40,9 @@ Thumbs.db
 ######################
 node_modules
 package-lock.json
+
+# Misc files
+######################
+*.css
+*.js
+dist
