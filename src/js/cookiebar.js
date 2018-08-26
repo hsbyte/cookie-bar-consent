@@ -18,15 +18,21 @@ $(function() {
 			success: function(data) {
 				$.each(data, function(index, item) {
 					$.each(item.lang, function(i, lang) {
-						if (navigator.language === lang) {
+
+						var render = function(n) {
 							var $consent = $('.cookiebar--consent');
 
-							$consent.append(data[index].consent);
-							$consent.next().append(data[index].learn);
-							$consent.next().attr("href", data[index].url);
+							$consent.html(data[n].consent);
+							$consent.next().html(data[n].learn);
+							$consent.next().attr("href", data[n].url);
 							$('.cookiebar').show();
-							return;
 						}
+
+						if (navigator.language === lang) {
+							render(index);
+							next();
+						}
+						render(0);
 					});
 				});
 			},
@@ -35,7 +41,6 @@ $(function() {
 			}
 		});
 	};
-
 	if (getCookie() === '')
 		cookiebarRender();
 
