@@ -5,17 +5,21 @@ This code plugin allowing a website to comply with the cookie law in which alert
 
 ### Instructions
   
-Download the project file. Install dependencies using bash. Run `gulp build` to build distribution files in the `dist` folder.
+Download the project file. Install `node.js` package dependencies using bash. Run `gulp build` to build distribution files in the `dist` folder.
+
 ```bash
 npm install
 gulp build
 ```
 
+`Gulp` was used to compile and minify the `SCSS` and `JavaScript`.
+
+
 ## Configuration
 
 ### JSON
 
-If `navigator.language` does not match with any of the data below, the language will default to english. You may also want to add more languages to the json file: `cookiebar.dat`.
+> If `navigator.language` does not match with any of the data below, the language will default to english. You may also want to add more languages to the json file: `cookiebar.dat`.
 
 ```bash
 [
@@ -40,14 +44,25 @@ If `navigator.language` does not match with any of the data below, the language 
 ...
 ```
 
+### Color Scheme and Cookie Bar Position
+
+> Modify `styles.scss` to change color scheme and cookie bar position in folder `src/scss`.
+
 ### Screenshot
+
 ![](https://github.com/hsbyte/cookie-bar-consent/blob/master/.md/cookiebar.jpg)
 
+
 ## Liability
+
 The plugin does not assume any liability for the accuracy of the translations.
 
+
 ## License
+
 Released under the [MIT licence](http://opensource.org/licenses/MIT).
 
-## Contributor
+
+## Author
+
 - Arnold Haban

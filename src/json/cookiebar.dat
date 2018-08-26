@@ -9,42 +9,42 @@
     "lang": ["nl", "nl-BE"],
     "consent": "Deze website maakt gebruik van cookies om uw ervaring te verbeteren. Door deze site te blijven bezoeken, stemt u in met het gebruik van cookies.",
     "learn": "Kom meer te weten.",
-    "url": "/privacy-policy-nl.html"
+    "url": "/privacy-policy.html"
 	},
     { "name": "filipino",
     "lang": ["fil"],
     "consent": "Gumagamit kami ng cookies upang mapahusay ang iyong karanasan. Sa patuloy na pagbisita sa site na ito, pinapayagan mo ang aming paggamit ng mga cookies.",
     "learn": "Matuto nang higit pa.",
-    "url": "/privacy-policy-sv.html"
+    "url": "/privacy-policy.html"
     },
 	{ "name": "french",
     "lang": ["fr", "fr-BE", "fr-CA", "fr-CH", "fr-LU"],
     "consent": "Ce site Web utilise des cookies pour améliorer votre expérience. En continuant à visiter ce site, vous consentez à notre utilisation de cookies.",
     "learn": "Apprendre encore plus.",
-    "url": "/privacy-policy-fr.html"
+    "url": "/privacy-policy.html"
 	},
 	{ "name": "german",
     "lang": ["de", "de-CH", "de-AT", "de-LU", "de-LI"],
     "consent": "Diese Website verwendet Cookies, um Ihr Erlebnis zu verbessern. Indem Sie diese Website weiterhin besuchen, stimmen Sie der Verwendung von Cookies zu.",
     "learn": "Mehr erfahren.",
-    "url": "/privacy-policy-de.html"
+    "url": "/privacy-policy.html"
 	},
 	{ "name": "italian",
     "lang": ["it", "it-CH"],
     "consent": "Questo sito web utilizza i cookie per migliorare la tua esperienza. Continuando a visitare questo sito, acconsentite all'uso dei cookie.",
     "learn": "Per saperne di più.",
-    "url": "/privacy-policy-it.html"
+    "url": "/privacy-policy.html"
 	},
 	{ "name": "swedish",
     "lang": ["sv", "sv-FI"],
     "consent": "Den här webbplatsen använder cookies för att förbättra din upplevelse. Byborn att besöka denna webbplats, samtycker du till vår användning av cookies.",
     "learn": "Läs mer.",
-    "url": "/privacy-policy-sv.html"
+    "url": "/privacy-policy.html"
 	},
 	{ "name": "spanish",
     "lang": ["es", "es-AR", "es-GT", "es-GT", "es-CR", "es-PA", "es-DO", "es-MX", "es-VE", "es-CO", "es-PE", "es-EC", "es-CL", "es-UY", "es-PY", "es-BO", "es-SV", "es-HN", "es-NI", "es-PR"],
     "consent": "Usamos cookies para mejorar tu experiencia. Al continuar visitando este sitio, usted acepta nuestro uso de cookies.",
     "learn": "Lee mas.",
-    "url": "/privacy-policy-es.html"
+    "url": "/privacy-policy.html"
 	}
 ]
