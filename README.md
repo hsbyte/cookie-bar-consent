@@ -52,7 +52,6 @@ gulp build
 
 ![](https://github.com/hsbyte/cookie-bar-consent/blob/master/.md/cookiebar.jpg)
 
-
 ## Liability
 
 The plugin does not assume any liability for the accuracy of the translations.
