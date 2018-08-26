@@ -46,7 +46,7 @@ gulp build
 
 ### Color Scheme and Cookie Bar Position
 
-> Modify `styles.scss` to change color scheme and cookie bar position in folder `src/scss`.
+> Change color scheme and cookie bar position in `src\scss\styles.scss`.
 
 ### Screenshot
 
