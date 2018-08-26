@@ -11,9 +11,9 @@ npm install
 gulp build
 ```
 
-### Configuration
+## Configuration
 
-#### JSON
+### JSON
 
 If `navigator.language` does not match with any of the data below, the language will default to english. You may also want to add more languages to the json file: `cookiebar.dat`.
 
@@ -40,8 +40,7 @@ If `navigator.language` does not match with any of the data below, the language 
 ...
 ```
 
-
-#### Screenshot
+### Screenshot
 ![](https://github.com/hsbyte/cookie-bar-consent/blob/master/.md/cookiebar.jpg)
 
 ## Liability
