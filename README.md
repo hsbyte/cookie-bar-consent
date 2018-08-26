@@ -5,7 +5,7 @@ This code plugin allowing a website to comply with the cookie law in which alert
 
 ### Instructions
   
-Download the project file. Install `node.js` package dependencies using `bash` or `cmd`. Run `gulp build` to build the distribution files in the `dist` folder.
+From a command shell `bash` or `cmd`, download the project file. Install `node.js` package dependencies. Run `gulp build` to build the distribution files in the `dist` folder.
 
 ```bash
 npm install
