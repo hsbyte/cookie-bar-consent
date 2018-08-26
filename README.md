@@ -1,5 +1,6 @@
 # Cookie Consent Bar
 ![](https://img.shields.io/badge/version-1.0.0-orange.svg)
+
 This code plugin allowing a website to comply with the cookie law in which alerts users about the use of cookies on your website.
 
 ### Instructions
@@ -39,7 +40,7 @@ If `navigator.language` does not match with any of the data below, the language 
 ```
 
 #### Screenshot
-![](https://github.com/hsbyte/cookie-bar-consent/.md/cookiebarconsent.svg)
+![](https://github.com/hsbyte/cookie-bar-consent/blob/master/.md/cookiebarconsent.svg)
 
 ## Liability
 The plugin does not assume any liability for the accuracy of the translations.
