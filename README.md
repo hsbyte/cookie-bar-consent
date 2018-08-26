@@ -19,7 +19,7 @@ gulp build
 
 ### JSON
 
-> If `navigator.language` does not match with any of the data below, the language will default to English. You may also want to add more languages to the json file: `cookiebar.dat`.
+> Displays the consent phrase translation according to the browser's `navigator.lamguage` attribute, and if `navigator.language` does not match with any of the `lang` data below, the phrase will be translated to English language. You may also want to add more languages to the json file: `cookiebar.dat`.
 
 ```bash
 [
@@ -51,10 +51,6 @@ gulp build
 ### Screenshot
 
 ![](https://github.com/hsbyte/cookie-bar-consent/blob/master/.md/cookiebar.jpg)
-
-## Liability
-
-The plugin does not assume any liability for the accuracy of the translations.
 
 
 ## License
