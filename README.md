@@ -5,7 +5,7 @@ This code plugin allowing a website to comply with the cookie law in which alert
 
 ### Instructions
   
-Download the project file. Install `node.js` package dependencies using bash. Run `gulp build` to build distribution files in the `dist` folder.
+Download the project file. Install `node.js` package dependencies using `bash` or `cmd`. Run `gulp build` to build distribution files in the `dist` folder.
 
 ```bash
 npm install
@@ -19,7 +19,7 @@ gulp build
 
 ### JSON
 
-> If `navigator.language` does not match with any of the data below, the language will default to english. You may also want to add more languages to the json file: `cookiebar.dat`.
+> If `navigator.language` does not match with any of the data below, the language will default to English. You may also want to add more languages to the json file: `cookiebar.dat`.
 
 ```bash
 [
