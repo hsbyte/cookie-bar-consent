@@ -16,28 +16,28 @@ gulp build
 #### JSON
 
 If `navigator.language` does not match with any of the data below, the language will default to english. You may also want to add more languages to the json file: `cookiebar.dat`.
-```code
+
 [
-	{ "name": "english",
+  { "name": "english",
     "lang": ["en", "en-US", "en-GB", "en-AU", "en-GB", "en-CA", "en-NZ", "en-IE", "en-ZA", "en-JM", "en-BZ", "en-TT"],
     "consent": "This website uses cookies to improve your experience. By continuing to visit this site, you consent to our use of cookies.",
     "learn": "Learn more.",
     "url": "/privacy-policy.html"
-	},
-	{ "name": "dutch",
+  },
+  { "name": "dutch",
     "lang": ["nl", "nl-BE"],
     "consent": "Deze website maakt gebruik van cookies om uw ervaring te verbeteren. Door deze site te blijven bezoeken, stemt u in met het gebruik van cookies.",
     "learn": "Kom meer te weten.",
     "url": "/privacy-policy-nl.html"
-	},
-    { "name": "filipino",
+  },
+  { "name": "filipino",
     "lang": ["fil"],
     "consent": "Gumagamit kami ng cookies upang mapahusay ang iyong karanasan. Sa patuloy na pagbisita sa site na ito, pinapayagan mo ang aming paggamit ng mga cookies.",
     "learn": "Matuto nang higit pa.",
     "url": "/privacy-policy-sv.html"
-    },
-    ...
-```
+  },
+...
+
 
 #### Screenshot
 ![](https://github.com/hsbyte/cookie-bar-consent/blob/master/.md/cookiebarconsent.svg)
