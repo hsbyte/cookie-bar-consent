@@ -35,7 +35,7 @@ If `navigator.language` does not match with any of the data below, the language 
     "lang": ["fil"],
     "consent": "Gumagamit kami ng cookies upang mapahusay ang iyong karanasan. Sa patuloy na pagbisita sa site na ito, pinapayagan mo ang aming paggamit ng mga cookies.",
     "learn": "Matuto nang higit pa.",
-    "url": "/privacy-policy-sv.html"
+    "url": "/privacy-policy-fil.html"
   },
 ...
 ```
