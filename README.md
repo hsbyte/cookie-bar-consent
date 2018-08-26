@@ -40,7 +40,7 @@ If `navigator.language` does not match with any of the data below, the language 
 
 
 #### Screenshot
-![](https://github.com/hsbyte/cookie-bar-consent/blob/master/.md/cookiebarconsent.svg)
+![](https://github.com/hsbyte/cookie-bar-consent/blob/master/.md/cookiebar.jpg)
 
 ## Liability
 The plugin does not assume any liability for the accuracy of the translations.
