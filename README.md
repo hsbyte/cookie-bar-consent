@@ -17,6 +17,7 @@ gulp build
 
 If `navigator.language` does not match with any of the data below, the language will default to english. You may also want to add more languages to the json file: `cookiebar.dat`.
 
+```bash
 [
   { "name": "english",
     "lang": ["en", "en-US", "en-GB", "en-AU", "en-GB", "en-CA", "en-NZ", "en-IE", "en-ZA", "en-JM", "en-BZ", "en-TT"],
@@ -37,6 +38,7 @@ If `navigator.language` does not match with any of the data below, the language 
     "url": "/privacy-policy-sv.html"
   },
 ...
+```
 
 
 #### Screenshot
